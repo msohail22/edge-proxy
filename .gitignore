@@ -1,0 +1,24 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+cmake-build-*/
+
+# Object files and archives
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.class
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Core dumps
+core
+vgcore.*

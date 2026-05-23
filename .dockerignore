@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vscode
+build/
+cmake-build-*/
+ROADMAP.md
+*.md
+Dockerfile
+.dockerignore
